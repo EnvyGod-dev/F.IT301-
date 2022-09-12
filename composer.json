@@ -1,0 +1,20 @@
+{
+    "name": "var/www/B200980127",
+    "require": {
+      "symfony/var-dumper": "^4.2"
+    },
+    "authors": [
+      {
+        "name": "Mark Twigg",
+        "email": "mark@penguindigital.co.uk"
+      }
+    ],
+    "require-dev": {
+      "filp/whoops": "2.*"
+    },
+    "autoload": {
+      "psr-4": {
+        "Scratchpad\\":"src/"
+      }
+    }
+  
