@@ -47,5 +47,5 @@ MongoDB
 
 ингээл mongodb мань ажиллаа
 
-
+penetration test machine hack хийх хэрэгтэй болсон тул windows 7 дээр хийсан шүү уучларай xD
 @@@Билгүүн
