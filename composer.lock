@@ -6,17 +6,17 @@
             "version": "v1.10.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/symfony/polyfill-mbstring.git",
+                "url": "https://github.com/Arbi0930/F.IT301-.git",
                 "reference": "c79c051f5b3a46be09205c73b80b346e4153e494"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/c79c051f5b3a46be09205c73b80b346e4153e494",
+                "url": "https://github.com/Arbi0930/F.IT301-.git",
                 "reference": "c79c051f5b3a46be09205c73b80b346e4153e494",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.3"
+                "php": ">=8.4.1"
             },
             "suggest": {
                 "ext-mbstring": "For best performance"
@@ -175,8 +175,8 @@
             ],
             "authors": [
                 {
-                    "name": "Nicolas Grekas",
-                    "email": "p@tchwork.com"
+                    "name": "Bilguun",
+                    "email": "mbsavage0930@gmail.com"
                 },
                 {
                     "name": "Symfony Community",
@@ -189,7 +189,7 @@
                 "debug",
                 "dump"
             ],
-            "time": "2019-01-30T11:44:30+00:00"
+            
         }
     ],
     "packages-dev": [
